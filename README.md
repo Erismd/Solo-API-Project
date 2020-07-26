@@ -15,17 +15,17 @@ git clone repo link
 ```
 yarn add
 ``` 
-3.Set up the local database.
+3. Set up the local database.
 ```
 CREATE DATABASE movie_manager
 ``` 
-4.Run the migrations and seed files to create tables and populate the database.
+4. Run the migrations and seed files to create tables and populate the database.
 ```
 yarn migrate && yarn seed
 ```
-5.Start the database server. The default port is set to localhost:5000.
+5. Start the database server. The default port is set to localhost:5000.
 ```
 yarn start
 ```
-6.Add your movie collections!🎥
+6. Add your movie collections!🎥
 
