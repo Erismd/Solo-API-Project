@@ -1,11 +1,13 @@
 # 🎥 Movie collection - A REST-ful CRUD API 🎥
 
-### "This was created during my time as a student at Code Chrysalis."
+## Introductuin:
+
+"This was created during my time as a student at Code Chrysalis."
 
 This is my first solo project creating a REST-ful CRUD API. I worked with movie collection data which I created as dummy using Express, Typeorm, and Postgres.
 
 
-## Introduction:
+## Installation:
 
 1. To get started, clone the repo to a local directory.
 ```
