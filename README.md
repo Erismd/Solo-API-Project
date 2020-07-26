@@ -1,6 +1,6 @@
 # 🎥 Movie collection - A REST-ful CRUD API 🎥
 
-## Introductuin:
+## Introduction:
 
 "This was created during my time as a student at Code Chrysalis."
 
